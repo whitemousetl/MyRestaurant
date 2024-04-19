@@ -1,0 +1,92 @@
+[
+    {
+      "name": "鱼香茄子",
+      "category": "炒菜",
+      "comment": "本店特色",
+      "score": 4.5
+    },
+    {
+      "name": "宫保鸡丁",
+      "category": "炒菜",
+      "comment": "经典美味",
+      "score": 4.3
+    },
+    {
+      "name": "鱼香肉丝",
+      "category": "炒菜",
+      "comment": "口味独特",
+      "score": 4.2
+    },
+    {
+      "name": "蒜蓉西兰花",
+      "category": "炒菜",
+      "comment": "清爽可口",
+      "score": 4.4
+    },
+    {
+      "name": "回锅肉",
+      "category": "炒菜",
+      "comment": "香辣可口",
+      "score": 4.6
+    },
+    {
+      "name": "红烧排骨",
+      "category": "炒菜",
+      "comment": "鲜香美味",
+      "score": 4.5
+    },
+    {
+      "name": "干煸豆角",
+      "category": "炒菜",
+      "comment": "香脆可口",
+      "score": 4.3
+    },
+    {
+      "name": "麻婆豆腐",
+      "category": "炒菜",
+      "comment": "麻辣鲜香",
+      "score": 4.7
+    },
+    {
+      "name": "蚂蚁上树",
+      "category": "炒菜",
+      "comment": "鲜香可口",
+      "score": 4.4
+    },
+    {
+      "name": "青椒肉丝",
+      "category": "炒菜",
+      "comment": "清爽美味",
+      "score": 4.3
+    },
+    {
+      "name": "番茄炒蛋",
+      "category": "炒菜",
+      "comment": "简单可口",
+      "score": 4.2
+    },
+    {
+      "name": "地三鲜",
+      "category": "炒菜",
+      "comment": "素食佳品",
+      "score": 4.6
+    },
+    {
+      "name": "红烧肉",
+      "category": "炒菜",
+      "comment": "经典美味",
+      "score": 4.5
+    },
+    {
+      "name": "家常豆腐",
+      "category": "炒菜",
+      "comment": "清淡可口",
+      "score": 4.3
+    },
+    {
+      "name": "香辣虾",
+      "category": "炒菜",
+      "comment": "鲜香辣味",
+      "score": 4.8
+    }
+]
